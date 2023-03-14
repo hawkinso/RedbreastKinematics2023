@@ -1,1 +1,3 @@
 # RedbreastKinematics2023
+
+Many biomechanics studies focus on interspecific variation rather than intraspecific variation, and often are limited to interspecies comparisons due to low sample sizes per individual within a species. In this study, we are specifically interested in understanding the impact of intraspecific variation on feeding and swimming kinematics during prey capture. We are particularly interested in within and across individual variation of redbreast sunfish feeding and swimming during prey capture of a non-evasive prey item. Data can be accessed on ZMA Portal under 'Redbreast sunffish prey capture kinematics'.
